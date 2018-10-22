@@ -10,7 +10,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
     <name>Manpoer Maven Web App</name>
     <url>http://www.alkathirikhalid.com</url>
     <properties>
-        <tomcat.version>7.0.57</tomcat.version>
+        <tomcat.version>9.0.12</tomcat.version>
     </properties>
     <dependencies>
         <dependency>
